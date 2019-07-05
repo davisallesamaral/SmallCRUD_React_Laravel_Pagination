@@ -1,0 +1,1 @@
+# SmallCRUD_React_Laravel_Pagination
