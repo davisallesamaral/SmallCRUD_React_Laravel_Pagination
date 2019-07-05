@@ -1,1 +1,1 @@
-# SmallCRUD_React_Laravel_Pagination
+# Small CRUD  React and Laravel - Pagination List
